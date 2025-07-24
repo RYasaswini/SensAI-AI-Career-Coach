@@ -1,4 +1,4 @@
-# 🚀 SensAI – AI-Powered Career Coach
+# 🚀 SensAI – AI-Powered Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI.
 
 SensAI is a Full Stack AI-driven career coaching platform that empowers job seekers by analyzing industry trends, enhancing resumes, preparing for interviews, and generating tailored cover letters using **Gemini AI**.
 
